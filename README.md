@@ -2,7 +2,7 @@
 
 > **An AI-driven platform that instantly audits software architectures to reduce cloud carbon footprints and generate enterprise-grade ESG compliance reports.**
 
-![CarbonLens Preview](https://via.placeholder.com/800x400.png?text=CarbonLens+Dashboard+Preview) ## 🚀 The Problem
+## 🚀 The Problem
 Software infrastructure and data centers consume roughly 4% of global electricity. Despite this massive environmental burden, developers lack native tools in their workflow to measure or optimize their footprint. 
 
 ## 💡 The Solution
